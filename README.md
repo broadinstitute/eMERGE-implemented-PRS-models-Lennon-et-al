@@ -1,6 +1,6 @@
 # README
 
-This repository contains weights files for polygenic risk scoring by the eMERGE network, as reported in [Lennon et. al](https://www.nature.com/articles/s41591-024-02796-z#Sec32).
+This repository contains weights files for polygenic risk scoring by the eMERGE network, as reported in [Lennon et. al](https://www.nature.com/articles/s41591-024-02796-z).
 
 Weights files are named `*_weights.txt`.  The files named `*_sites_used_in_score.ids` indicate which sites from each condition were actually used for scoring the eMERGE dataset.  
 
